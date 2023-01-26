@@ -21,7 +21,7 @@
 
 - Run the following command to configure CLI
 ```
-      aws configure -- profile "Name of the profile"
+      aws configure --profile "Name of the profile"
       
       AWS Access Key ID [None]: enter your access key
       
